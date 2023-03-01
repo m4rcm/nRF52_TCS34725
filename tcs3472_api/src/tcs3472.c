@@ -4,7 +4,7 @@
  *  Created on: 3 Jan 2018
  *      Author: Marcus
  */
-#include "sam_block.h"
+#include "sam_block.h" /* missing the header file on src folder */
 
 #include "tcs3472.h"
 
